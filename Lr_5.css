@@ -1,0 +1,42 @@
+html{
+    background-color: navajowhite;
+}
+.choice{
+    background-color: navajowhite;
+    text-align: center;
+}
+select{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button{
+    border-radius:10px;
+    background-color: chartreuse;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+    font-size: 25px;
+    margin-top: 1.5%;
+}
+table{
+    background-color:white;
+    height: 100%;
+    width: 100%;
+    border: 3px solid black; 
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 1px solid black;
+}
+
+th{
+    height: 75px;
+}
+
+td{
+    height: 45px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
